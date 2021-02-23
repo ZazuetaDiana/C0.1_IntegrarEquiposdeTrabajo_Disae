@@ -81,4 +81,4 @@ Desarrollo * Registrar el siguiente formato con los datos solicitados: **Nombre 
 
 </table>
 
-![house] [Ir a inicio](/readme.md)
+[Ir a inicio](/readme.md)
