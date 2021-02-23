@@ -21,7 +21,9 @@ Integracion de los alumnos a equipos de trabajo.
 
 ## ✏Desarrollo 
 
-* Registrar el siguiente formato con los datos solicitados: **Nombre del equipo**: ___Disae____
+* Registrar el siguiente formato con los datos solicitados: 
+
+**Nombre del equipo**: ___Disae____
 
 <table>
 
