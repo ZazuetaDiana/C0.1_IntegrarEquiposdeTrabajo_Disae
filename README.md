@@ -18,7 +18,7 @@ Integracion de los alumnos a equipos de trabajo.
 * Considerando que el archivo .PDF, el cual fue obtenido desde archivo .MD, ambos deben ser idénticos. 
 
 - readme.md
- -atach 
+  -atach 
  - blog 
  - C0.1_NombredelaActividad.md 
   - C0.2_NombredelaActividad.md 
@@ -28,7 +28,7 @@ Integracion de los alumnos a equipos de trabajo.
   - docs 
   - html 
   - img 
-  - pdf * * *
+  - pdf 
 
 ## ✏Desarrollo 
 
