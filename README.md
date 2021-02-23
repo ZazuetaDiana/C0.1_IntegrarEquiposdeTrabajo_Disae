@@ -19,9 +19,9 @@ Integracion de los alumnos a equipos de trabajo.
 
 - readme.md -atach - blog - C0.1_NombredelaActividad.md - C0.2_NombredelaActividad.md - A0.1_NombredelaActividad.md - A0.2_NombredelaActividad.md - diagrams - docs - html - img - pdf * * *
 
-## ![pencil2]
+## ✏Desarrollo 
 
-Desarrollo * Registrar el siguiente formato con los datos solicitados: **Nombre del equipo**: ___Disae____
+* Registrar el siguiente formato con los datos solicitados: **Nombre del equipo**: ___Disae____
 
 <table>
 
