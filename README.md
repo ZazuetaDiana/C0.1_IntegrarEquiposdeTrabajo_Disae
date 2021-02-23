@@ -3,7 +3,7 @@
 
 # Integrar equipos de trabajo 
 
-🏆##C0.1 Reto en clase 
+## 🏆C0.1 Reto en clase 
 
 Integracion de los alumnos a equipos de trabajo.
 
