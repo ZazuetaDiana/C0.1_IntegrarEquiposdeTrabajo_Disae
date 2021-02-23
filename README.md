@@ -8,7 +8,7 @@ Integracion de los alumnos a equipos de trabajo.
 
 ## ✏Desarrollo 
 
-* Registrar el siguiente formato con los datos solicitados: 
+* Datos solicitados: 
 
 **Nombre del equipo**: ___Disae____
 
