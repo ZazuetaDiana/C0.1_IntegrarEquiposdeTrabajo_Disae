@@ -1,11 +1,11 @@
-# C0.1_IntegrarEquiposdeTrabajo_Disae
+C0.1_IntegrarEquiposdeTrabajo_Disae
 
 
 # Integrar equipos de trabajo 
 
 ## 🏆C0.1 Reto en clase 
-
 Integracion de los alumnos a equipos de trabajo.
+
 
 * Los alumnos deberá conformar los equipos de trabajo, los cuales deberán darle un nombre para ser identificados.
 
