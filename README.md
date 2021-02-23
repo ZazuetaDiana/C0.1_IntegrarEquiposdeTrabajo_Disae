@@ -53,7 +53,7 @@ Integracion de los alumnos a equipos de trabajo.
 
 <td>---------</td>
 
-<td>---------</td>
+<td>---18210546---</td>
 
 </tr>
 
@@ -65,7 +65,7 @@ Integracion de los alumnos a equipos de trabajo.
 
 <td>---------</td>
 
-<td>---------</td>
+<td>---Zazueta Lopez Diana---</td>
 
 </tr>
 
