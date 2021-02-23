@@ -84,4 +84,4 @@ Integracion de los alumnos a equipos de trabajo.
 
 </table>
 
-[Ir a inicio](https://classroom.google.com/u/0/c/MjcwMTQ0MzU2MDE4/a/MjcwMTQ0MzU2MDM5/details)
+[Ir a classroom](https://classroom.google.com/u/0/c/MjcwMTQ0MzU2MDE4/a/MjcwMTQ0MzU2MDM5/details)
