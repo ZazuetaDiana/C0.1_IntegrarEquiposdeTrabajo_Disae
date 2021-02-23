@@ -10,7 +10,7 @@ Integracion de los alumnos a equipos de trabajo.
 
 * Datos solicitados: 
 
-**Nombre del equipo**: ___Disae____
+**Nombre del equipo**: ___Disae___
 
 <table>
 
