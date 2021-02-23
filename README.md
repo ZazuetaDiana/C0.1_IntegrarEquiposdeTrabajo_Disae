@@ -47,37 +47,49 @@ Integracion de los alumnos a equipos de trabajo.
 
 <tr>
 
-<td>---------</td>
+<td>16212529</td>
 
-<td>---------</td>
+<td>Acosta Noriega Saul Eduardo</td>
 
-<td>---------</td>
+<td>C++, C#, Python </td>
 
-<td>---18210546---</td>
-
-</tr>
-
-<tr>
-
-<td>---------</td>
-
-<td>---------</td>
-
-<td>---------</td>
-
-<td>---Zazueta Lopez Diana---</td>
+<td>Java, JavaScript, SQL </td>
 
 </tr>
 
 <tr>
 
-<td>---------</td>
+<td>15211700</td>
 
-<td>---------</td>
+<td>Garza Aguilar Sergio Alberto </td>
 
-<td>---------</td>
+<td>C#, HTML,PHP</td>
 
-<td>---------</td>
+<td>Java,Python,JavaScript </td>
+
+</tr>
+
+<tr>
+
+<td>18210485</td>
+
+<td>Hernández Fernández Diana </td>
+
+<td>C#,C++,SQL</td>
+
+<td>Python,Java,HTML</td>
+
+</tr>
+
+<tr>
+
+<td>18210546</td>
+
+<td>Zazueta Lopez Diana </td>
+
+<td>C#, C++, SQL</td>
+
+<td>JavaScript,Python,PHP </td>
 
 </tr>
 
